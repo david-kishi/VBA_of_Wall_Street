@@ -1,2 +1,3 @@
-# VBA_of_Wall_Street
+# VBA of Wall Street
+
 VBA script to analyze Wall Street data.
